@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Ex2_Conditions/Ex2_Conditions.vcxproj" />
+  <Project Path="Week04Lab.vcxproj" />
+</Solution>
